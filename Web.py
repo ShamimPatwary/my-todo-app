@@ -1,5 +1,3 @@
-from tkinter.ttk import Label
-
 import streamlit as st
 import function
 
