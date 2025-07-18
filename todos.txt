@@ -1,0 +1,4 @@
+Clean the room
+Make tea
+Make coffee
+This app is perfectly working
